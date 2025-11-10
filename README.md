@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @isinhadomal 🇧🇷
+- 👋 Hi, I’m @pocket-isa 🇧🇷
 - 👀 I’m interested in learn how to program from scratch
 - 🌱 I’m currently learning how to start in this area 
 - 💞️ I’m looking to collaborate on ...initial teachings and guide
-- 📫 How to reach me insta @pocket_isa
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I've never programmed in my life and I'm really scared and afraid of being shit at it😭
 
