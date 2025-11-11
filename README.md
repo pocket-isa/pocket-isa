@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pocket-isa 🇧🇷
+- 👋 Hi, I’m @pocket-isa 🇧🇷!
 - 👀 I’m interested in learn how to program from scratch
 - 🌱 I’m currently learning how to start in this area 
 - 💞️ I’m looking to collaborate on ...initial teachings and guide
